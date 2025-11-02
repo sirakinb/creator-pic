@@ -1,0 +1,5 @@
+{
+  "name": "creatorpic",
+  "description": "Upload an image, provide a text prompt, and generate multiple AI-edited versions of your photo using Gemini.",
+  "requestFramePermissions": []
+}
