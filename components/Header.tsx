@@ -8,7 +8,7 @@ export const Header: React.FC = () => {
           creatorpic
         </h1>
         <p className="mt-2 text-md text-gray-400">
-          Generate multiple creative edits of your photos using the power of Gemini.
+          Generate multiple creative edits of your photos
         </p>
       </div>
     </header>
